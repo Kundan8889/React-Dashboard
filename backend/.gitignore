@@ -1,0 +1,28 @@
+# libraries
+..yoloface/
+..yoloface
+.yoloface/
+.yoloface
+yoloface
+sort/output/
+sort/mot_benchmark
+
+# some data
+config.py
+./data/temp
+./data/mummy
+./data/papa
+data/temp
+data/mummy
+data/papa
+data/aadi
+capture_data.mp4
+output_video.avi
+testing_vdo.mp4
+testing_vdo2.mp4
+temp.jpg
+
+
+logs
+.logs
+virt
